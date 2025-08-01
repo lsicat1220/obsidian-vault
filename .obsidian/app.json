@@ -1,5 +1,6 @@
 {
   "vimMode": true,
-  "showLineNumber": true,
-  "strictLineBreaks": true
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true
 }

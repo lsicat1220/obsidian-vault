@@ -19,10 +19,13 @@ $$
 \vec{F}=\vec{E}q 
 
 $$
+
 This movement can also be interpreted as charges wanting to move in from places of high [[electric potential]] to places of low electric potential, or in the case of negative particles, from low potential to high potential. When doing so, the charge gains kinetic energy, represented by:
+
 $$
 KE=\int_{r_i}^{r_f} \vec{E}q \cdot dr = V_f - V_i
 $$
+
 The electric charge of an object may also be represented by the charge per unit region of space, whether it be per unit area, volume, or length. Right?
 
 
