@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "cdaa900907a6dffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "08be9fcfbbeeb64c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285456e36bb93fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHY 108 - Electricity and Magnetism/Electric Charge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electric Charge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a56da79bfc93b201",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce0d215da6cd004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d76a74900e78a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f037ddb07a270baa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "562f583dcfc0ca6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e708fe029d2f830",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaadd0dad03303e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a026a1a54063c0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b3b302a7855516bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PHY 108 - Electricity and Magnetism/Electric Charge.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Electric Charge"
+            }
+          },
+          {
+            "id": "8f52f36bb18676d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PHY 108 - Electricity and Magnetism/Electric Charge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Electric Charge"
+            }
+          },
+          {
+            "id": "179b000940f75fa7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b47c777d15ed3393",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHY 108 - Electricity and Magnetism/Electric Charge.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Electric Charge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 592.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "285456e36bb93fb5",
+  "lastOpenFiles": [
+    "PHY 108 - Electricity and Magnetism/Electric Potential.md",
+    "PHY 108 - Electricity and Magnetism/Electric Field.md",
+    "PHY 107 - Mechanics/Newton's Laws of Motion.md",
+    "PHY 107 - Mechanics/Force.md",
+    "PHY 107 - Mechanics/Energy.md",
+    "PHY 108 - Electricity and Magnetism/Electric Charge.md",
+    "PHY 108 - Electricity and Magnetism",
+    "PHY 107 - Mechanics",
+    "git vault/vimrc",
+    "git vault",
+    "vimrc",
+    "PHY 108 - Electricity and Magnetism/Electric Charge.md~",
+    "Untitled.md",
+    "equal and opposite.md",
+    "vimrc.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
