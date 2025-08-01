@@ -1,0 +1,1 @@
+The influence on an object to make it move. A vector that points in the direction of where an object is being pushed. The unit of force is the Newton, or $kg\cdot{}m/s^2$.

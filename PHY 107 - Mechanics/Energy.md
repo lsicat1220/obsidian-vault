@@ -1,0 +1,1 @@
+Energy is the capacity to do work, or put energy on other objects. This is a property that can come in the form of movement, heat, or light. 
