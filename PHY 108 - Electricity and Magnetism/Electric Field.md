@@ -14,11 +14,7 @@ If there is a charged particle anywhere in space, there will be an electric fiel
 $$
 \vec{F}=q\cdot{}\vec{E}
 $$
-The electric field may also be represented in terms of [[Electric Potential|voltage]]. Voltage can be expressed as
-$$
-\Delta V=-\int_{r_1}^{r_2}\vec{E} \cdot dr
-$$
-so it follows that electric field is gradient (rate of change) of the voltage at a certain point, or 
+The electric field may also be represented in terms of [[Electric Potential|voltage]].  
 $$
 \vec{E} = -\frac{dV}{dr}
 $$
