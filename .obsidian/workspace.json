@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY 108 - Electricity and Magnetism/Capacitors.md",
+                "file": "testing testing 123.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitors"
+              "title": "testing testing 123"
             }
           }
         ]
@@ -160,8 +160,19 @@
               "icon": "lucide-list",
               "title": "Outline of Electric Charge"
             }
+          },
+          {
+            "id": "7eeb0552676352e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,13 +191,14 @@
   },
   "active": "285456e36bb93fb5",
   "lastOpenFiles": [
-    "PHY 108 - Electricity and Magnetism/Gauss's Law.md",
+    "PHY 108 - Electricity and Magnetism/Electric Field.md",
+    "testing testing 123.md",
     "PHY 108 - Electricity and Magnetism/Capacitors.md",
+    "PHY 108 - Electricity and Magnetism/Gauss's Law.md",
     "PHY 108 - Electricity and Magnetism/Electric Potential.md",
     "PHY 108 - Electricity and Magnetism/Electric Charge.md",
     "PHY 108 - Electricity and Magnetism/Charge density.md",
     "electric charges.md",
-    "PHY 108 - Electricity and Magnetism/Electric Field.md",
     "PHY 108 - Electricity and Magnetism/Electric Flux.md",
     "PHY 108 - Electricity and Magnetism/Magnetic Field.md",
     "HW problems to go back to.md",
@@ -199,7 +211,6 @@
     "git vault",
     "vimrc",
     "PHY 108 - Electricity and Magnetism/Electric Charge.md~",
-    "Untitled.md",
     "equal and opposite.md",
     "vimrc.md",
     "Welcome.md",
