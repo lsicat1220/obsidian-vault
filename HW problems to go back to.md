@@ -1,1 +1,1 @@
-CH28, Question 5
+CH28, Question 5 about magnetism
