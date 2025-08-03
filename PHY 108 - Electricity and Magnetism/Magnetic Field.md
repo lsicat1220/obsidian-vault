@@ -4,7 +4,7 @@ $$
 \vec{F}=q \vec{v} \times \vec{B} = q\vec{v}\vec{B}sin(\theta)
 $$
 
-where $\vec{B}$ is the vector of the magnetic field, given in newtons per coulomb-meter per second, or a tesla (T). The magnetic field may also be given in gauss, which is $10^4T$. 
+where $\vec{B}$ is the vector of the magnetic field, given in newtons per coulomb-meter per second, or a tesla (T). The magnetic field may also be given in gauss, which is $10^4T$. The direction of the magnetic force can be remembered with the right hand rule, where the pointer is the velocity, the middle finger is the magnetic field, and the thumb is the force.
 
 
 If the magnetic field is perpendicular to the charge's movement (such as in the case of a charge moving across the screen with a magnetic field going through the screen) the equation may be simplified to 
