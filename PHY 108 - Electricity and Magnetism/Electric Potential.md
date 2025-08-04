@@ -1,3 +1,7 @@
+---
+aliases:
+  - voltage
+---
 For any given [[electric field]], there is energy. To place a [[Electric Charge|charge]] anywhere next to another charge, you must do some work to bring it there, since charges will always exert forces on each other, except at an infinite distance. 
 
 The work that the electric puts on the charge as we bring a charge from infinity to some distance R away from another particle is represented by the following function:

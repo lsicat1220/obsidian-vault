@@ -5,3 +5,4 @@ The average speed at which an electron will drift through the conductor is known
 $$
 v_d = \frac{eE}{m_e} \cdot \tau
 $$
+For any electric field, the speed of electrons largely depends on the material of the conductor. For normal temperatures, this is a constant $\sigma$, known as conductivity. 
