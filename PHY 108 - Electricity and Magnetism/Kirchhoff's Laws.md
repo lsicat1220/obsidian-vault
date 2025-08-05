@@ -1,0 +1,5 @@
+Kirchhoff's laws are two rules that are used for analyzing [[Circuits|circuits]]. 
+
+Kirchhoff's Current Law states that the [[Electric Current|current]] entering a junction must equal the current exiting the junction. For example, if 1 current flows into a junction that splits into 3 paths, the sum current of the three paths must equal the the entering current.
+
+Kirchhoff's Voltage Law states that in any closed loop within a circuit, the sum of all [[Electric Potential|voltage]] changes must equal zero. Voltage sources, like batteries, are said to be voltage rises, while components that have a resistance are said to be voltage drops. For example, in a circuit with multiple branches in parallel, if you take a path that goes directly from one terminal of the battery, through one path, to the other terminal of the battery, the voltage drops of that individual path's resistance must be equal to the voltage of the batter6

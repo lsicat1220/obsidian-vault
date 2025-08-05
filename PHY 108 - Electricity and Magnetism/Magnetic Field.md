@@ -20,8 +20,8 @@ $$
 v=\frac{E}{B}
 $$
 
-When a conductor moves through a uniform magnetic field, the free-moving electrons will have a force exerted on it, since it is moving. The end result is that electrons will be pulled to one side of the conductor, giving it a potential difference across the perpendicular length of the field, given by 
+Since [[Electric Current|current]] is defined as the amount of charge going through a cross sectional area of the wire at a time, we can multiply that by any given length to find the moving charge in an area and use that value to find the magnetic force on a wire.
 
 $$
-V=vBd
+\vec{F_b}=i\vec{L} \times \vec{B}
 $$
