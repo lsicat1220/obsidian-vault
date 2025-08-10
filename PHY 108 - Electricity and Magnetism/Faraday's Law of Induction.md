@@ -14,3 +14,9 @@ $$
 $$
 To find the magnetic flux through a coil of N turns, we simply multiply this equation by N.
 
+However, there doesn't need to be a circuit to induce an emf. Since charges will move in this magnetic field, we may say that a current will produce an electric field at any loop around it, which will do work on a charge at every point in the closed loop. Mathematically, this relationship looks like this:
+
+$$
+\xi = \oint \vec{E} \cdot d\vec{s} = -\frac{d\Phi}{dt}
+$$
+
