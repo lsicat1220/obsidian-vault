@@ -14,13 +14,13 @@ $$
 $$
 
 
-When a particle is moving in a magnetic field that is being opposed by an [[electric field]], the two fields are only canceled when the following equation is met:
+When a particle is moving in a magnetic field that is being opposed by an [Electric Field](electric%20field.md), the two fields are only canceled when the following equation is met:
 
 $$
 v=\frac{E}{B}
 $$
 
-Since [[Electric Current|current]] is defined as the amount of charge going through a cross sectional area of the wire at a time, we can multiply that by any given length to find the moving charge in an area and use that value to find the magnetic force on a wire.
+Since [current](Electric%20Current.md) is defined as the amount of charge going through a cross sectional area of the wire at a time, we can multiply that by any given length to find the moving charge in an area and use that value to find the magnetic force on a wire.
 
 $$
 \vec{F_b}=i\vec{L} \times \vec{B}

@@ -1,4 +1,4 @@
-Electric flux is the total [[electric field]] crossing a given surface. It can be found by using this formula:
+Electric flux is the total [Electric Field](electric%20field.md) crossing a given surface. It can be found by using this formula:
 
 $$
 \Phi = \int_S\vec{E} \cdot d\vec{A}

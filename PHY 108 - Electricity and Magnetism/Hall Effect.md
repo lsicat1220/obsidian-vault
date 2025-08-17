@@ -1,4 +1,4 @@
-When a [[Conductors|conductor]] carrying a [[Electric Current|current]] is placed in a uniform [[Magnetic Field]], the moving electrons will eventually be pulled to some direction due to the magnetic field. This leads to an imbalance in charge within the conductor that only stops growing once the internal voltage matches that of the magnetic force. 
+When a [conductor](Conductors.md) carrying a [current](Electric%20Current.md) is placed in a uniform [Magnetic Field](Magnetic%20Field.md), the moving electrons will eventually be pulled to some direction due to the magnetic field. This leads to an imbalance in charge within the conductor that only stops growing once the internal voltage matches that of the magnetic force. 
 
 This voltage, which is constant, is called the Hall voltage. Using this voltage $V$, we can determine the number density of charge carriers in a given conductor:
 

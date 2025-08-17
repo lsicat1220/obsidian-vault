@@ -1,10 +1,10 @@
-Capacitance is the amount of [[Electric Charge|charge]] that can be stored in an electrical device, most commonly [[capacitors]]. The unit for capacitance is the farad (F) which is one coulomb per volt. Because this unit is large, it is often given in the form of micro or picofarads. 
+Capacitance is the amount of [charge](Electric%20Charge.md) that can be stored in an electrical device, most commonly [Capacitors](capacitors.md). The unit for capacitance is the farad (F) which is one coulomb per volt. Because this unit is large, it is often given in the form of micro or picofarads. 
 
 $$
 q=CV \Rightarrow C=\frac{q}{V}
 $$
 
-The capacitance of a capacitor depends only on its geometry. Most capacitors are symmetrical, so [[Gauss's Law]] can be used to find the [[Electric Potential|voltage]] in terms of q, which then can be used in the equation for voltage to solve for q/V. For example, the electric field of two parallel plates is constant everywhere between the plates, being $\sigma/2\epsilon_0$. Plugging that into the previous equation gives:
+The capacitance of a capacitor depends only on its geometry. Most capacitors are symmetrical, so [Gauss's Law](Gauss's%20Law.md) can be used to find the [voltage](Electric%20Potential.md) in terms of q, which then can be used in the equation for voltage to solve for q/V. For example, the electric field of two parallel plates is constant everywhere between the plates, being $\sigma/2\epsilon_0$. Plugging that into the previous equation gives:
 
 $$
 C=\frac{\epsilon_0A}{d}

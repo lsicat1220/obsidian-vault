@@ -1,4 +1,4 @@
-When a particle exists in space, it will exert a force on any other particle around it proportional to its [[electric charge]], given by 
+When a particle exists in space, it will exert a force on any other particle around it proportional to its [Electric Charge](electric%20charge.md), given by 
 $$
 \vec{F}=k\cdot{}\frac{q_1q_2}{r^2}
 $$
@@ -14,7 +14,7 @@ If there is a charged particle anywhere in space, there will be an electric fiel
 $$
 \vec{F}=q\cdot{}\vec{E}
 $$
-The electric field may also be represented in terms of [[Electric Potential|voltage]]. In this case, it would be given in volts per meter (V/m).
+The electric field may also be represented in terms of [voltage](Electric%20Potential.md). In this case, it would be given in volts per meter (V/m).
 $$
 \vec{E} = -\frac{dV}{dr} \Rightarrow \vec{E}=\frac{V}{r}
 $$

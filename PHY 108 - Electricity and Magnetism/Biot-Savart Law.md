@@ -1,4 +1,4 @@
-When there is a [[Electric Current|current]] running through a wire, it creates a [[magnetic field]] everywhere around it. At a certain spot a distance $r$ away from the wire, every infinitesimal length of wire contribute to a magnetic field there:
+When there is a [current](Electric%20Current.md) running through a wire, it creates a [Magnetic Field](magnetic%20field.md) everywhere around it. At a certain spot a distance $r$ away from the wire, every infinitesimal length of wire contribute to a magnetic field there:
 
 $$
 d\vec{B} = \frac{\mu_0}{4\pi} \frac{i d\vec{s} \times \hat{r}}{r^2}
